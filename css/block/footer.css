@@ -1,0 +1,39 @@
+.footer {
+  border: 1px solid #d8d8d8;
+  background: #fafafa;
+  margin-top: 5px;
+  height: 200px;
+}
+.pink-cartoon {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  margin-left: -140px;
+  margin-top: -40px;
+}
+.social-media {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  list-style-type: none;
+  margin-left: -450px;
+  margin-top: -99px;
+}
+.social-link a > i {
+  height: 30px;
+  width: 50px;
+}
+.green-smile {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: -272px;
+  right: 0;
+  margin-right: 135px;
+}
+.smile {
+  position: absolute;
+  bottom: 0;
+  margin-bottom: -350px;
+  right: 0;
+}
